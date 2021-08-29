@@ -1,3 +1,3 @@
 # ebcc-aqua
-EBC - AQUA
+EBCC - AQUA
 Ecology, Biodiversity, Climate change and Conservation of Aquatic Ecosystems and Wetlands
